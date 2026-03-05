@@ -1,8 +1,10 @@
-# Minha Jornada Java
-Este espaço reúne todos os meus projetos e exercícios desenvolvidos em Java, organizados para acompanhar minha evolução na linguagem. Cada repositório reflete um passo do meu aprendizado, desde conceitos básicos até práticas mais avançadas.
+# Programa de Saudação em Java
 
-🔹 Objetivo: documentar minha jornada de estudo e prática em Java.
+Este projeto é um programa simples em Java que interage com o usuário via terminal.  
+Ele solicita o nome e a idade do usuário e, em seguida, exibe uma mensagem personalizada.
 
-🔹 Conteúdo: exemplos, projetos, desafios e experimentos.
+## 📋 Funcionalidades
+- Solicita o nome do usuário.
+- Solicita a idade do usuário.
+- Exibe uma mensagem de saudação com nome e idade.
 
-🔹 Visão: criar um portfólio que mostre minha progressão e sirva como referência futura.
